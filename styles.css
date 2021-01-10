@@ -154,11 +154,13 @@ main {
 }
 
 .main-currency-table .currency-table--title {
-  margin-top: 1.8rem;
+  padding-top: 1.8rem;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
   font-weight: bold;
   line-height: 2.3rem;
   text-align: left;
-  padding-left: 15px;
   color: var(--bitcoin-orange);
 }
 
