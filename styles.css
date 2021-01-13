@@ -144,6 +144,11 @@ main {
   color: #757575;
 }
 
+.main-tables-container {
+  height: 360px;
+  overflow-y: scroll;
+}
+
 .main-currency-table,
 .main-commissions-table {
   width: 70%;
