@@ -147,6 +147,8 @@ main {
 .main-tables-container {
   height: 360px;
   overflow-y: scroll;
+  overscroll-behavior: contain;
+  scroll-snap-type: y proximity;
 }
 
 .main-currency-table,
